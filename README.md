@@ -35,16 +35,16 @@ boot.html
   <title>Dribble</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-
+</head>
 <body>
 
-  <!-- Dark Theme Navbar -->
+  
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
-      <!-- Dribble brand on left -->
+      
       <a class="navbar-brand" href="#">Dribble</a>
 
-      <!-- Navbar items -->
+      
       <div class="collapse navbar-collapse">
         <ul class="navbar-nav ms-3">
           <li class="nav-item">
@@ -70,13 +70,13 @@ boot.html
     </div>
   </nav>
 
-  <!-- Top Bar for Sign In / Sign Up -->
+  
   <div class="d-flex justify-content-end p-3 bg-white">
   <a href="#" class="btn btn-primary">Sign in</a>
   <a href="#" class="btn btn-info ms-2">Sign up</a>
 </div>
 
-  <!-- Header Section -->
+  
   <div class="text-center my-1">
     <h4 class="fw-bold">What are you working on?</h4>
     <p class="subtext">Dribbble is show and tell for designers.</p>
@@ -84,9 +84,9 @@ boot.html
     <button class="btn btn-signup">Sign up</button>
   </div>
 
-  <!-- Image Grid -->
+  
   <div class="container">
-    <!-- Row 1 -->
+   
     <div class="row mb-4">
       <div class="col-2 text-center">
         <img src="img1.png" width="100" height="100" class="img-fluid rounded">
@@ -114,7 +114,7 @@ boot.html
       </div>
     </div>
 
-    <!-- Row 2 -->
+    
     <div class="row mb-4">
       <div class="col-2 text-center">
         <img src="img7.webp" width="100" height="100" class="img-fluid rounded">
@@ -142,7 +142,7 @@ boot.html
       </div>
     </div>
 
-    <!-- Row 3 -->
+   
     <div class="row mb-4">
       <div class="col-2 text-center">
         <img src="img13.webp" width="100" height="100" class="img-fluid rounded">
@@ -180,7 +180,7 @@ boot.html
 
 
 ## OUTPUT:
-![alt text](<jeevi pro.png>)
+![alt text](<Screenshot (42).png>)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
